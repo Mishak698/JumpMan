@@ -1,9 +1,6 @@
 {
   "resourceType": "GMExtensionConfigSet",
   "configurables": null,
-  "extensionId": {
-    "name": "Basic_platform_game_example",
-    "path": "extensions/Basic_platform_game_example/Basic_platform_game_example.yy"
-  },
+  "extensionId": null,
   "resourceVersion": "1.0"
 }
