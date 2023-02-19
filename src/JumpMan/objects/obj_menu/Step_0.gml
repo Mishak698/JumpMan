@@ -12,7 +12,7 @@ if _move != 0
 	index += _move;
 	
 	var _size = array_length(menu[sub_menu])
-	if index < 0 index = _size = -1		//start == loop menu end
+	if index < 0 index = _size = - 1;		//start == loop menu end
 	else if index >= _size index = 0;	//end == loop menu start
 
 }
