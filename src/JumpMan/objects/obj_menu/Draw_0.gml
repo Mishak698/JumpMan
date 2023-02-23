@@ -4,7 +4,7 @@
 draw_set_halign(fa_center);
 draw_set_font(fnt_menu);
 
-var _gap = 40;
+var _gap = 110;
 
 for (var i = 0; i < array_length(menu[sub_menu]); ++i)
 {
