@@ -20,10 +20,10 @@
     {"name":"Demo 02 Parallax Pixel Sky","order":2,"path":"folders/Sprites/Parallax Pixel Skies 240x135px/Demo 02 Parallax Pixel Sky.yy",},
     {"name":"Pixel Skies 1920x1080px (Full HD)","order":17,"path":"folders/Sprites/Pixel Skies 1920x1080px (Full HD).yy",},
     {"name":"Pixel Skies 240x135px","order":18,"path":"folders/Sprites/Pixel Skies 240x135px.yy",},
+    {"name":"suchy_player","order":38,"path":"folders/Sprites/suchy_player.yy",},
     {"name":"tilesets","order":6,"path":"folders/Sprites/tilesets.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"suchy_player","order":38,"path":"folders/Sprites/suchy_player.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"demo05_PixelSky","order":4,"path":"sprites/demo05_PixelSky/demo05_PixelSky.yy",},

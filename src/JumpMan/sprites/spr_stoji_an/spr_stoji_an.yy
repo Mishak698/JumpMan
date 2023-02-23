@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_stoji_an",
-  "bbox_bottom": 104,
+  "bbox_bottom": 69,
   "bbox_left": 0,
-  "bbox_right": 20,
+  "bbox_right": 13,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -19,7 +19,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 105,
+  "height": 70,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"86f3b61a-38b0-4b81-bb8f-3820c78c05d5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -74,5 +74,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 21,
+  "width": 14,
 }
