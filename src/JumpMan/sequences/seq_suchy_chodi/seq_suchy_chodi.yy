@@ -24,8 +24,8 @@
     "Keyframes": [],
   },
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "suchy_player",
+    "path": "folders/Sprites/suchy_player.yy",
   },
   "playback": 1,
   "playbackSpeed": 12.0,
