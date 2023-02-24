@@ -28,6 +28,7 @@
     {"name":"tilesets","order":6,"path":"folders/Sprites/tilesets.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"radus","order":41,"path":"folders/Sprites/radus.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_honzik_stoji","order":5,"path":"sprites/spr_honzik_stoji/spr_honzik_stoji.yy",},
@@ -92,7 +93,7 @@
     {"name":"demo04_PixelSky","order":3,"path":"sprites/demo04_PixelSky/demo04_PixelSky.yy",},
     {"name":"obj_knight","order":1,"path":"objects/obj_knight/obj_knight.yy",},
     {"name":"sPlayerClimbing","order":12,"path":"sprites/sPlayerClimbing/sPlayerClimbing.yy",},
-    {"name":"Room4","order":2,"path":"rooms/Room4/Room4.yy",},
+    {"name":"r_planet_level_2","order":2,"path":"rooms/r_planet_level_2/r_planet_level_2.yy",},
     {"name":"Room5","order":21,"path":"rooms/Room5/Room5.yy",},
     {"name":"obj_invis_wall_small","order":24,"path":"objects/obj_invis_wall_small/obj_invis_wall_small.yy",},
     {"name":"An_honzik_chodi","order":1,"path":"sprites/An_honzik_chodi/An_honzik_chodi.yy",},
