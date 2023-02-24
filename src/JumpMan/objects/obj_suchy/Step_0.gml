@@ -24,6 +24,7 @@ else
 if (right) 
 {
 	hspd = spd;
+	
 }
 
 if (left)
