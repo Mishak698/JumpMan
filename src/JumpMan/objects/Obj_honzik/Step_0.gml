@@ -63,7 +63,15 @@ if (place_meeting(x, y+vspd, obj_solid))
 y+= vspd;
 
 
-if (jump)
+if (right and jump)
+{
+	sprite_index = Spr_honzik_meziskokPR
+}
+else if (left and jump)
+{
+	sprite_index = Spr_honzik_meziskok
+}
+else if (jump)
 {
 	sprite_index = Spr_honzik_meziskok
 }
@@ -78,14 +86,7 @@ else if (left)
 	sprite_index = An_honzik_chodi
 	
 }
-else if (right and jump)
-{
-	
-}
-else if (left and jump)
-{
-	
-}
+
 else 
 {
 	sprite_index = An_honzik_stojiPR
