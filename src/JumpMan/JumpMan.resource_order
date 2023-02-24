@@ -16,6 +16,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"honzik","order":39,"path":"folders/Sprites/honzik.yy",},
     {"name":"honzik_animate","order":8,"path":"folders/Sprites/honzik/honzik_animate.yy",},
+    {"name":"honzik_animatePR","order":9,"path":"folders/Sprites/honzik/honzik_animatePR.yy",},
     {"name":"raw","order":7,"path":"folders/Sprites/honzik/raw.yy",},
     {"name":"knight","order":2,"path":"folders/Sprites/knight.yy",},
     {"name":"Parallax Pixel Skies 240x135px","order":16,"path":"folders/Sprites/Parallax Pixel Skies 240x135px.yy",},
@@ -27,7 +28,6 @@
     {"name":"tilesets","order":6,"path":"folders/Sprites/tilesets.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"honzik_animatePR","order":9,"path":"folders/Sprites/honzik/honzik_animatePR.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_honzik_stoji","order":5,"path":"sprites/spr_honzik_stoji/spr_honzik_stoji.yy",},

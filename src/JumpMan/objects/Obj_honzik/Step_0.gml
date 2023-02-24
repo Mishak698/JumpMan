@@ -65,12 +65,12 @@ y+= vspd;
 
 if (jump)
 {
-	sprite_index = Sr_honzik_dopad
+	sprite_index = Spr_honzik_meziskok
 }
 else if (right)
 {
 	image_xscale = right
-	sprite_index = An_honzik_chodi
+	sprite_index = An_honzik_chodiPR
 }
 else if (left)
 {
@@ -78,9 +78,17 @@ else if (left)
 	sprite_index = An_honzik_chodi
 	
 }
+else if (right and jump)
+{
+	
+}
+else if (left and jump)
+{
+	
+}
 else 
 {
-	sprite_index = An_honzik_stoji
+	sprite_index = An_honzik_stojiPR
 }
 
 
