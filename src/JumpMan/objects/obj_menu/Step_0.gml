@@ -1,8 +1,8 @@
 /// @description Insert description here
 
 //input
-var _up = keyboard_check_pressed(ord("W"));
-var _down = keyboard_check_pressed(ord("S"));
+var _up = keyboard_check_pressed(ord("W")) or keyboard_check_pressed(vk_up);
+var _down = keyboard_check_pressed(ord("S")) or keyboard_check_pressed(vk_down);
 var _select = keyboard_check_pressed(vk_enter) or keyboard_check_pressed(vk_space);
 
 
