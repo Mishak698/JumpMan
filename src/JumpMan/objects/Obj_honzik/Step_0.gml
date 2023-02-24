@@ -25,8 +25,9 @@ else
 
 if (right) 
 {
-	hspd = spd;
+	hspd = spd;	
 }
+
 
 if (left)
 {
@@ -60,3 +61,27 @@ if (place_meeting(x, y+vspd, obj_solid))
 }
 
 y+= vspd;
+
+
+if (jump)
+{
+	sprite_index = Sr_honzik_dopad
+}
+else if (right)
+{
+	image_xscale = right
+	sprite_index = An_honzik_chodi
+}
+else if (left)
+{
+	image_xscale = left
+	sprite_index = An_honzik_chodi
+	
+}
+else 
+{
+	sprite_index = An_honzik_stoji
+}
+
+
+
