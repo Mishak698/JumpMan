@@ -85,6 +85,7 @@
     {"id":{"name":"ts_grass","path":"tilesets/ts_grass/ts_grass.yy",},"order":2,},
     {"id":{"name":"oKey","path":"objects/oKey/oKey.yy",},"order":4,},
     {"id":{"name":"spr_invis_wall_small","path":"sprites/spr_invis_wall_small/spr_invis_wall_small.yy",},"order":23,},
+    {"id":{"name":"Pixel_skies_difPlanet","path":"sprites/Pixel_skies_difPlanet/Pixel_skies_difPlanet.yy",},"order":40,},
     {"id":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"order":5,},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":0,},
     {"id":{"name":"Spr_suchy_chuze_2","path":"sprites/Spr_suchy_chuze_2/Spr_suchy_chuze_2.yy",},"order":36,},

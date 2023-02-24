@@ -62,6 +62,7 @@
     {"name":"ts_grass","order":2,"path":"tilesets/ts_grass/ts_grass.yy",},
     {"name":"oKey","order":4,"path":"objects/oKey/oKey.yy",},
     {"name":"spr_invis_wall_small","order":23,"path":"sprites/spr_invis_wall_small/spr_invis_wall_small.yy",},
+    {"name":"Pixel_skies_difPlanet","order":40,"path":"sprites/Pixel_skies_difPlanet/Pixel_skies_difPlanet.yy",},
     {"name":"obj_solid","order":5,"path":"objects/obj_solid/obj_solid.yy",},
     {"name":"Spr_suchy_chuze_2","order":36,"path":"sprites/Spr_suchy_chuze_2/Spr_suchy_chuze_2.yy",},
     {"name":"spr_stoji_an","order":24,"path":"sprites/spr_stoji_an/spr_stoji_an.yy",},
