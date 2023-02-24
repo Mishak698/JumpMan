@@ -4,9 +4,9 @@
   "name": "An_honzik_stoji",
   "bbox_bottom": 69,
   "bbox_left": 0,
-  "bbox_right": 59,
+  "bbox_right": 24,
   "bbox_top": 0,
-  "bboxMode": 0,
+  "bboxMode": 1,
   "collisionKind": 1,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
@@ -74,5 +74,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 60,
+  "width": 25,
 }
