@@ -16,6 +16,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"honzik","order":39,"path":"folders/Sprites/honzik.yy",},
     {"name":"honzik_animate","order":8,"path":"folders/Sprites/honzik/honzik_animate.yy",},
+    {"name":"honzik_animatePR","order":9,"path":"folders/Sprites/honzik/honzik_animatePR.yy",},
     {"name":"raw","order":7,"path":"folders/Sprites/honzik/raw.yy",},
     {"name":"knight","order":2,"path":"folders/Sprites/knight.yy",},
     {"name":"Parallax Pixel Skies 240x135px","order":16,"path":"folders/Sprites/Parallax Pixel Skies 240x135px.yy",},
@@ -27,7 +28,6 @@
     {"name":"tilesets","order":6,"path":"folders/Sprites/tilesets.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"honzik_animatePR","order":9,"path":"folders/Sprites/honzik/honzik_animatePR.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_honzik_stoji","order":5,"path":"sprites/spr_honzik_stoji/spr_honzik_stoji.yy",},
@@ -80,6 +80,7 @@
     {"name":"oDangerous","order":1,"path":"objects/oDangerous/oDangerous.yy",},
     {"name":"spr_invis_wall","order":20,"path":"sprites/spr_invis_wall/spr_invis_wall.yy",},
     {"name":"demo03_PixelSky_1920x1080","order":2,"path":"sprites/demo03_PixelSky_1920x1080/demo03_PixelSky_1920x1080.yy",},
+    {"name":"Spr_honzik_meziskokPR","order":7,"path":"sprites/Spr_honzik_meziskokPR/Spr_honzik_meziskokPR.yy",},
     {"name":"Obj_resolution","order":10,"path":"objects/Obj_resolution/Obj_resolution.yy",},
     {"name":"Spr_suchy_dopad","order":32,"path":"sprites/Spr_suchy_dopad/Spr_suchy_dopad.yy",},
     {"name":"An_honzik_stojiPR","order":1,"path":"sprites/An_honzik_stojiPR/An_honzik_stojiPR.yy",},
