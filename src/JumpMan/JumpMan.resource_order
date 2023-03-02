@@ -61,6 +61,7 @@
     {"name":"oLadders","order":5,"path":"objects/oLadders/oLadders.yy",},
     {"name":"demo02_PixelSky_layer02","order":1,"path":"sprites/demo02_PixelSky_layer02/demo02_PixelSky_layer02.yy",},
     {"name":"__global_object_depths","order":3,"path":"scripts/__global_object_depths/__global_object_depths.yy",},
+    {"name":"obj_radus","order":12,"path":"objects/obj_radus/obj_radus.yy",},
     {"name":"Sr_honzik_dopad","order":6,"path":"sprites/Sr_honzik_dopad/Sr_honzik_dopad.yy",},
     {"name":"ts_grass","order":2,"path":"tilesets/ts_grass/ts_grass.yy",},
     {"name":"oKey","order":4,"path":"objects/oKey/oKey.yy",},
