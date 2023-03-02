@@ -76,6 +76,7 @@
     {"name":"Sprite44","order":16,"path":"sprites/Sprite44/Sprite44.yy",},
     {"name":"Spr_suchy_stoji_2","order":28,"path":"sprites/Spr_suchy_stoji_2/Spr_suchy_stoji_2.yy",},
     {"name":"r_menu","order":1,"path":"rooms/r_menu/r_menu.yy",},
+    {"name":"planety","order":43,"path":"sprites/planety/planety.yy",},
     {"name":"seq_suchy_dopadl","order":1,"path":"sequences/seq_suchy_dopadl/seq_suchy_dopadl.yy",},
     {"name":"sPlayerHead","order":13,"path":"sprites/sPlayerHead/sPlayerHead.yy",},
     {"name":"oPlayer","order":6,"path":"objects/oPlayer/oPlayer.yy",},

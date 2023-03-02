@@ -101,6 +101,7 @@
     {"id":{"name":"Sprite44","path":"sprites/Sprite44/Sprite44.yy",},"order":16,},
     {"id":{"name":"Spr_suchy_stoji_2","path":"sprites/Spr_suchy_stoji_2/Spr_suchy_stoji_2.yy",},"order":28,},
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},"order":1,},
+    {"id":{"name":"planety","path":"sprites/planety/planety.yy",},"order":43,},
     {"id":{"name":"seq_suchy_dopadl","path":"sequences/seq_suchy_dopadl/seq_suchy_dopadl.yy",},"order":1,},
     {"id":{"name":"sPlayerHead","path":"sprites/sPlayerHead/sPlayerHead.yy",},"order":13,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":6,},
