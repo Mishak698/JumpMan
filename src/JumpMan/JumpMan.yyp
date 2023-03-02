@@ -84,6 +84,7 @@
     {"id":{"name":"__global_object_depths","path":"scripts/__global_object_depths/__global_object_depths.yy",},"order":3,},
     {"id":{"name":"r_grass_level_1","path":"rooms/r_grass_level_1/r_grass_level_1.yy",},"order":0,},
     {"id":{"name":"ts","path":"tilesets/ts/ts.yy",},"order":0,},
+    {"id":{"name":"obj_radus","path":"objects/obj_radus/obj_radus.yy",},"order":12,},
     {"id":{"name":"Sr_honzik_dopad","path":"sprites/Sr_honzik_dopad/Sr_honzik_dopad.yy",},"order":6,},
     {"id":{"name":"demo02_PixelSky_layer01","path":"sprites/demo02_PixelSky_layer01/demo02_PixelSky_layer01.yy",},"order":0,},
     {"id":{"name":"ts_grass","path":"tilesets/ts_grass/ts_grass.yy",},"order":2,},
