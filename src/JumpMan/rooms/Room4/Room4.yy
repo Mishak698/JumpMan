@@ -1,14 +1,14 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "r_planet_level_2",
+  "name": "Room4",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_61DD496B","path":"rooms/r_planet_level_2/r_planet_level_2.yy",},
-    {"name":"inst_77E02D63","path":"rooms/r_planet_level_2/r_planet_level_2.yy",},
+    {"name":"inst_61DD496B","path":"rooms/Room4/Room4.yy",},
+    {"name":"inst_77E02D63","path":"rooms/Room4/Room4.yy",},
   ],
   "isDnd": false,
   "layers": [
