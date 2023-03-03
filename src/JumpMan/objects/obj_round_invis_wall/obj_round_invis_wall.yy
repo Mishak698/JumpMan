@@ -33,5 +33,5 @@
     "path": "sprites/spr_round/spr_round.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
