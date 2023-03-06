@@ -79,6 +79,7 @@
     {"id":{"name":"demo06_PixelSky","path":"sprites/demo06_PixelSky/demo06_PixelSky.yy",},"order":5,},
     {"id":{"name":"demo06_PixelSky_1920x1080","path":"sprites/demo06_PixelSky_1920x1080/demo06_PixelSky_1920x1080.yy",},"order":5,},
     {"id":{"name":"object_get_depth","path":"scripts/object_get_depth/object_get_depth.yy",},"order":0,},
+    {"id":{"name":"r_lvl_2_space","path":"rooms/r_lvl_2_space/r_lvl_2_space.yy",},"order":3,},
     {"id":{"name":"oLadders","path":"objects/oLadders/oLadders.yy",},"order":5,},
     {"id":{"name":"demo02_PixelSky_layer02","path":"sprites/demo02_PixelSky_layer02/demo02_PixelSky_layer02.yy",},"order":1,},
     {"id":{"name":"__global_object_depths","path":"scripts/__global_object_depths/__global_object_depths.yy",},"order":3,},
@@ -171,6 +172,7 @@
     {"roomId":{"name":"r_grass_level_1","path":"rooms/r_grass_level_1/r_grass_level_1.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"roomId":{"name":"r_lvl_2_space","path":"rooms/r_lvl_2_space/r_lvl_2_space.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

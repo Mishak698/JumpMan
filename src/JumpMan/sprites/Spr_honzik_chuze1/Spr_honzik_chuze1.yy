@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Spr_honzik_chuze1",
-  "bbox_bottom": 68,
+  "bbox_bottom": 69,
   "bbox_left": 0,
   "bbox_right": 24,
   "bbox_top": 0,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 69,
+  "height": 70,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"95f15ed4-a308-444a-89f3-2429eeca874c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},

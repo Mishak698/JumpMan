@@ -58,6 +58,7 @@
     {"name":"spr_ground","order":4,"path":"sprites/spr_ground/spr_ground.yy",},
     {"name":"demo06_PixelSky","order":5,"path":"sprites/demo06_PixelSky/demo06_PixelSky.yy",},
     {"name":"demo06_PixelSky_1920x1080","order":5,"path":"sprites/demo06_PixelSky_1920x1080/demo06_PixelSky_1920x1080.yy",},
+    {"name":"r_lvl_2_space","order":3,"path":"rooms/r_lvl_2_space/r_lvl_2_space.yy",},
     {"name":"oLadders","order":5,"path":"objects/oLadders/oLadders.yy",},
     {"name":"demo02_PixelSky_layer02","order":1,"path":"sprites/demo02_PixelSky_layer02/demo02_PixelSky_layer02.yy",},
     {"name":"__global_object_depths","order":3,"path":"scripts/__global_object_depths/__global_object_depths.yy",},
