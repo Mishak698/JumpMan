@@ -4,7 +4,7 @@
   "name": "spr_honzik_stoji",
   "bbox_bottom": 69,
   "bbox_left": 0,
-  "bbox_right": 15,
+  "bbox_right": 24,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 16,
+  "width": 25,
 }

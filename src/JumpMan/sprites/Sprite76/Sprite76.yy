@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Spr_honzik_chuze2",
-  "bbox_bottom": 69,
+  "name": "Sprite76",
+  "bbox_bottom": 0,
   "bbox_left": 0,
-  "bbox_right": 24,
+  "bbox_right": 0,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6576e263-e7e9-441c-bd2a-98251e29a7e5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ed7ed80e-cb49-4b7d-96e1-dec3db91148b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 70,
+  "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"edaf3c43-84fe-4dd3-b293-dea89df3ca9c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"00809706-00b4-4ba8-bb4a-f67df13e3623","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "raw",
-    "path": "folders/Sprites/honzik/raw.yy",
+    "name": "JumpMan",
+    "path": "JumpMan.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Spr_honzik_chuze2",
+    "name": "Sprite76",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6576e263-e7e9-441c-bd2a-98251e29a7e5","path":"sprites/Spr_honzik_chuze2/Spr_honzik_chuze2.yy",},},},"Disabled":false,"id":"e32976d5-f504-4b59-98fc-102d446a81a6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ed7ed80e-cb49-4b7d-96e1-dec3db91148b","path":"sprites/Sprite76/Sprite76.yy",},},},"Disabled":false,"id":"1890053d-c726-44d2-a3b7-042ec254cb20","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 25,
+  "width": 64,
 }
