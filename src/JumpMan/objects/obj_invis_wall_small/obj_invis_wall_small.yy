@@ -33,5 +33,5 @@
     "path": "sprites/spr_invis_wall_small/spr_invis_wall_small.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

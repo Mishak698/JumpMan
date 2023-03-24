@@ -34,5 +34,5 @@
     "path": "sprites/spr_room_tans2/spr_room_tans2.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

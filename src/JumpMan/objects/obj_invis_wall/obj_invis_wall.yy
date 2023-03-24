@@ -36,5 +36,5 @@
     "name": "spr_grass_tile",
     "path": "sprites/spr_grass_tile/spr_grass_tile.yy",
   },
-  "visible": true,
+  "visible": false,
 }

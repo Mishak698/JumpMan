@@ -25,7 +25,10 @@ if _select
 	
 				//start
 				case 0:
-					room_goto_next();
+					room_goto(r_grass_level_1);
+					Obj_honzik.x = 168;
+					Obj_honzik.y = 531;
+					
 				break;
 				//options
 				case 1:

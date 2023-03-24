@@ -3,6 +3,8 @@
 var right = keyboard_check(ord("D"));
 var left = keyboard_check(ord("A"));
 var jump = keyboard_check(vk_space );
+var esc = keyboard_check(vk_escape);
+
 
 if (place_meeting(x, y+1, obj_solid))
 {
@@ -93,4 +95,11 @@ else
 }
 
 
+if esc
+{
+	room_goto(r_menu)
+	other.x = 390;
+	other.y = -185;
+	
+}
 
