@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_invis_wall_small",
-    "path": "sprites/spr_invis_wall_small/spr_invis_wall_small.yy",
+    "name": "spr_round",
+    "path": "sprites/spr_round/spr_round.yy",
   },
   "spriteMaskId": null,
   "visible": false,
